@@ -1,0 +1,15 @@
+[core]
+        excludesfile = ~/.gitignore_global
+        editor = code --wait
+[merge]
+        tool = bc
+[diff]
+        tool = bc
+[alias]
+        st = status
+        ci = commit
+        co = checkout
+        br = branch
+        dt = difftool
+        mt = mergetool
+        lg = log --graph --abbrev-commit --date=relative --all
