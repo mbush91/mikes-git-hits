@@ -5,6 +5,8 @@
         tool = bc
 [diff]
         tool = bc
+[push]
+        autoSetupRemote = true
 [alias]
         st = status
         ci = commit
