@@ -15,3 +15,4 @@
         dt = difftool
         mt = mergetool
         lg = log --graph --abbrev-commit --date=relative --all
+        ca = "!git add -u && git commit"
