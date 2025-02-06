@@ -1,4 +1,4 @@
-# mikes-git-hits
+# mikes-git-hints
 
 ## .gitconfig
 
